@@ -1,2 +1,3 @@
 console.log("hi");
-console.log("hi guys main prince hu");
+console.log("hello");
+console.log("hi,guys my name is prince");
